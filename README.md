@@ -12,6 +12,20 @@ Before you plan the presentation, start by answering some of these questions.  T
 
 *Remember the drug table of your prescribers database has duplicates.  Make sure your figures are not multiplied due to a one-too-many relationship.*
 
+## 🎨 Presciption Drug Project | Dashboard 🎨
+
+![1](https://github.com/user-attachments/assets/ab1f9552-9726-4c49-a7dc-5bb5f20f38c4)
+
+![2](https://github.com/user-attachments/assets/e7226132-a6ca-4433-8274-903b4b035363)
+
+![3](https://github.com/user-attachments/assets/4f0e1e96-48a5-4783-986b-0de9d736d49e)
+
+![4](https://github.com/user-attachments/assets/837d92af-5a09-474b-bb69-996d7ee470d7)
+
+![5](https://github.com/user-attachments/assets/ca939c98-4d4c-460a-aa1c-8395c9dc0869)
+
+## :question: The Questions :question:	
+
 💊1. Deaths over time <br>
   a. How has total overdose deaths changed over time? <br>
   b. How have overdose deaths changed over time for Davidson and Shelby counties <br>
@@ -39,24 +53,12 @@ Before you plan the presentation, start by answering some of these questions.  T
 💊6. Nashville - Davidson County <br>
   a. Which zip codes in Davidson County have the most opioids prescribed? 
 
-<br> 
+## :toolbox: Tools Used :toolbox:	
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<br>
 
-## 📊 Presciption Drug Project | Dashboard 📊
 
-![1](https://github.com/user-attachments/assets/ab1f9552-9726-4c49-a7dc-5bb5f20f38c4)
 
-![2](https://github.com/user-attachments/assets/e7226132-a6ca-4433-8274-903b4b035363)
-
-![3](https://github.com/user-attachments/assets/4f0e1e96-48a5-4783-986b-0de9d736d49e)
-
-![4](https://github.com/user-attachments/assets/837d92af-5a09-474b-bb69-996d7ee470d7)
-
-![5](https://github.com/user-attachments/assets/ca939c98-4d4c-460a-aa1c-8395c9dc0869)
-
-![6](https://github.com/user-attachments/assets/8963a05b-0453-4acb-842f-c9d7b5465066)
 
 
