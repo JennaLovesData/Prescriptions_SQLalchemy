@@ -1,6 +1,5 @@
 
 ## :alembic:	 Presciption Drug Project | SQL Alchemy :alembic:	
-	
 
 In this project you will be creating a presentation that will be delivered to a government board on behalf of concerned citizens.
 You are working on behalf of community groups who believe there should be more oversight of prescription opioids.
@@ -11,6 +10,10 @@ At the end of the presentation you should recommend some areas that could benefi
 Before you plan the presentation, start by answering some of these questions.  They will help you get an idea of some possible directions you can go.  Not all these answers need to be in the presentation and other analysis can be included.
 
 *Remember the drug table of your prescribers database has duplicates.  Make sure your figures are not multiplied due to a one-too-many relationship.*
+
+## :bar_chart:	 The Presentation :bar_chart:	
+
+💊[Canva Presentation](https://www.canva.com/design/DAGVo1f43ao/f0zdnwARRjjnxrxuuoGReg/edit?utm_content=DAGVo1f43ao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🎨 Presciption Drug Project | Dashboard 🎨
 
